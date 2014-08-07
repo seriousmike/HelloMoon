@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloMoon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="hellomoon_play">Play</string>
+    <string name="hellomoon_stop">Stop</string>
+    <string name="hellomoon_pause">Pause!</string>
+    
+    <string name="videomoon_play">Show cinema</string>
+    
+    <string name="hellomoon_description">Neil Armstrong stepped onto the moon</string>
+    
+
+</resources>
