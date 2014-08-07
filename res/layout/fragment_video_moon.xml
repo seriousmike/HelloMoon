@@ -3,11 +3,10 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <Button
-        android:text="@string/videomoon_play"
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:id="@+id/btnVideoPlay"
+    <VideoView 
+        android:id="@+id/videoView"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
         />
 
 </LinearLayout>
